@@ -1,0 +1,17 @@
+# ninja log v5
+3	577	7344266749551977	CMakeFiles/untitled1.dir/main.cpp.obj	d40217bc5956a715
+563	969	7344266753486539	CMakeFiles/untitled1.dir/Menu.cpp.obj	a1a41e80c322149e
+426	529	7344263176676419	untitled1.exe	d88235ed78438e45
+14	591	7344266749701594	CMakeFiles/untitled1.dir/fileWork.cpp.obj	96fd745c0d84bed1
+20	562	7344266749362485	CMakeFiles/untitled1.dir/fileView.cpp.obj	578544a76eed24d5
+9	736	7344266751142809	CMakeFiles/untitled1.dir/encryption.cpp.obj	a068b4fb23ae2cd5
+3	416	7344269462809233	CMakeFiles/untitled1.dir/consoleWork.cpp.obj	ec65023b3ee095d
+416	543	7344269464045927	untitled1.exe	28b308af84f106a2
+3	477	7344272217347255	CMakeFiles/untitled1.dir/consoleWork.cpp.obj	ec65023b3ee095d
+477	606	7344272218604954	untitled1.exe	28b308af84f106a2
+3	499	7344275828412810	CMakeFiles/untitled1.dir/main.cpp.obj	d40217bc5956a715
+499	632	7344275829709338	untitled1.exe	28b308af84f106a2
+2	510	7344280291311223	CMakeFiles/untitled1.dir/main.cpp.obj	d40217bc5956a715
+510	644	7344280292627697	untitled1.exe	28b308af84f106a2
+3	1042	7349444483175806	CMakeFiles/untitled1.dir/main.cpp.obj	d40217bc5956a715
+1042	1460	7349444487346576	untitled1.exe	28b308af84f106a2
